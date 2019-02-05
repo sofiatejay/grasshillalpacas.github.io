@@ -1,2 +1,2 @@
 # grasshillalpacas.github.io
-A multipage website designn pratice project
+A multipage website design pratice project
